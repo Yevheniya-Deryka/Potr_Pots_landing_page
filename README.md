@@ -3,18 +3,18 @@
 
 Implemented landing page according to [Figma design](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760%3A281&t=XOONOA4R4GbTgCsR-0)
 
-Technologies:
+## Technologies:
 - HTML
 - SCSS
 - Flexbox
 - BEM-metodology
 
-Adaptive layout:
+## Adaptive layout:
 - Desktop (>= 1280px)
 - Tablet (>= 640px)
 - Mobile (>= 320px)
 
-Included sections:
+## Included sections:
 - Header with Nav block
 - For whom block
 - Features block

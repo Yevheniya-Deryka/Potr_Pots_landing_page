@@ -7,7 +7,7 @@ Implemented landing page according to [Figma design](https://www.figma.com/file/
 - HTML
 - SCSS
 - Flexbox
-- BEM-metodology
+- BEM-methodology
 
 ## Adaptive layout:
 - Desktop (>= 1280px)

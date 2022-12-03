@@ -1,7 +1,13 @@
 # Potr Pots Landing Page pet-project
 - [DEMO LINK](https://Yevheniya-Deryka.github.io/Potr_Pots_landing_page/)
 
-Implemented landing page according to [Figma design](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760%3A281&t=XOONOA4R4GbTgCsR-0) - according to BEM and using SCSS.
+Implemented landing page according to [Figma design](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760%3A281&t=XOONOA4R4GbTgCsR-0)
+
+Technologies:
+- HTML
+- SCSS
+- Flexbox
+- BEM-metodology
 
 Adaptive layout:
 - Desktop (>= 1280px)
